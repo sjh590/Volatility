@@ -107,3 +107,5 @@ compare <- cbind(Strat.Ret, Strat2.Ret)
 colnames(compare) <- c("gjrGARCH", "Historical")
 
 charts.PerformanceSummary(compare)
+
+test
